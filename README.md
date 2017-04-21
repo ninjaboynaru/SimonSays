@@ -1,6 +1,8 @@
 # SimonSays
 ![Simon Says Game Image](https://raw.githubusercontent.com/ninjaboynaru/SimonSays/master/docs/_SimonSays_Img_1.JPG)
 
+[The Game](https://ninjaboynaru.github.io/SimonSays/)
+
 A Simon Says game made with HTML and pure JavaScript (some jquery was used)
 
 The only external resources used were sound files, the jquery library and some fonts from google fonts. 
